@@ -115,5 +115,5 @@ CoreTelephony.framework
 QuartzCore.framework
 
 2.剩下的步骤参照cocopods第三步
-详情参照
+
 
