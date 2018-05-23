@@ -1,10 +1,10 @@
 我们在集成sdk前需要到微信开放平台注册自己的应用，然后拿到对应的key，其实这个一般都是后台来做，只要问后台拿到key就行
-
+使用详情参照https://blog.csdn.net/qq_33298465/article/details/80422571，demo里我也写注释了
 微信支付集成SDK介绍cocopods集成SDK和手动集成SDK
 
 一、cocopods集成SDK
 
-1.需要安装cocopods（安装及使用方法参照点击打开链接）
+1.需要安装cocopods（安装及使用方法参照https://blog.csdn.net/qq_33298465/article/details/59078425）
 
 2、导入
 pod 'WechatOpenSDK'
@@ -114,5 +114,5 @@ CoreTelephony.framework
 QuartzCore.framework
 
 2.剩下的步骤参照cocopods第三步
-
+详情参照
 
