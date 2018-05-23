@@ -1,5 +1,6 @@
 我们在集成sdk前需要到微信开放平台注册自己的应用，然后拿到对应的key，其实这个一般都是后台来做，只要问后台拿到key就行
 使用详情参照https://blog.csdn.net/qq_33298465/article/details/80422571，demo里我也写注释了，欢迎大神指点，喜欢的动动小手给个星，妹子一个写个demo也不容易
+
 微信支付集成SDK介绍cocopods集成SDK和手动集成SDK
 
 一、cocopods集成SDK
